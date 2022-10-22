@@ -1,4 +1,4 @@
-![image](TTS.jpg)
+![image](TTS.png)
 #TTS Named Finger : Text to speech -by exe-
 ---------------------------------------------------------------------------------------
 
